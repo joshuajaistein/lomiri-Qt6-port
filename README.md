@@ -1,4 +1,6 @@
-# lomiri-Qt6-port
+## Plugins
 
-Plugins 
-  Cursor - Crash noted while trying to access property theme, cursorparameters
+### Cursor
+- Qt6 port in progress.
+- A crash has been observed when accessing the `theme` property and `cursorParameters`.
+- QML unit tests acessible , but halted due to the above crash. 
